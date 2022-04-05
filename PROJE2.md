@@ -1,0 +1,16 @@
+# Proje 2
+---
+[16,21,11,8,12,22] -> Merge Sort<br>
+
+Yukarýdaki dizinin sort türüne göre aþamalarýný yazýnýz.<br>
+
+[16 21 11] - [8 12 22]<br>
+[16] [21 11] - [8] [12 22]<br>
+[16] [21] [11] - [8] [12] [22]<br>
+[16] [11 21] - [8] [12 22]<br>
+[11 16 21] - [8 12 22]<br>
+[8 11 12 16 21 22]<br>
+
+Big-O gösterimini yazýnýz.<br>
+
+Big-O Gösterimi: O(n logn)
