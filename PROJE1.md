@@ -8,10 +8,10 @@
 2 6 16 18 22 27<br>
 2 6 16 18 22 27<br>
 2.  Big-O gösterimini yazýnýz.
-Big-O Gösterimi: O(nx<sup>2</sup>)
+Big-O Gösterimi: O(n<sup>2</sup>)
 3.  Time Complexity: Average case: Aradýðýmýz sayýnýn ortada olmasý, Worst case: Aradýðýmýz sayýnýn sonda olmasý, Best case: Aradýðýmýz sayýnýn dizinin en baþýnda olmasý.
-Average case: O(nx<sup>2</sup>)
-Worst case: O(nx<sup>2</sup>)
+Average case: O(n<sup>2</sup>)
+Worst case: O(n<sup>2</sup>)
 Best case: O(n)
 5.  Dizi sýralandýktan sonra 18 sayýsý hangi case kapsamýna girer? Yazýnýz.
 Average case kapsamýna girer.
