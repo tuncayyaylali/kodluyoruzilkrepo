@@ -23,8 +23,10 @@ print(f"input: {flatten_list(liste)}\noutput: {flatten_list(liste)}")
 # Proje-2
 liste = [[1, 2], [3, 4], [5, 6, 7]]
 print(f"input: {liste}")
-for i in liste:
-    i = i.reverse()
 liste.reverse()
+for i in liste:
+    i.reverse()
+print(f"input: {liste}")
+
 
 
