@@ -1,3 +1,4 @@
+# Proje-1
 def flatten_list(l):
     flat_list = []
     for element in l:
@@ -18,3 +19,12 @@ def flatten_list(l):
 
 liste = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 print(f"input: {flatten_list(liste)}\noutput: {flatten_list(liste)}")
+
+# Proje-2
+liste = [[1, 2], [3, 4], [5, 6, 7]]
+print(f"input: {liste}")
+for i in liste:
+    i = i.reverse()
+liste.reverse()
+
+
